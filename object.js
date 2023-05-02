@@ -72,3 +72,18 @@ console.log(studentWithHighSchool)
 
 
 
+
+
+const currentAge=()=>{
+    let currentAge=new Date().getFullYear();
+
+
+    Car.age
+}
+
+
+
+
+
+
+
